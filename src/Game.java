@@ -89,9 +89,7 @@ public class Game extends JFrame implements ActionListener {
         else{
             player_1=false;
             title.setText("O turn");
-
         }
-
     }
 
     @Override
